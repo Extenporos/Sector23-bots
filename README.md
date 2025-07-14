@@ -1,1 +1,3 @@
-# Sector23-bots
+# Sector23-bots 
+# ESP:Este es un entorno de desarrollo exclusivo de Developers y/o Coders que aceptaron trabajar en los bots, y demas proyectos, este repositorio no debe ser publicado en ningun lugar que no sea en el servidor "Sector 23" o "Sector 23 Developers" ATTE. EXTEN y mi equipo
+# ENG:This is an exclusive development environment for Developers and/or Coders who have agreed to work on bots and other projects. This repository should not be published anywhere other than the "Sector 23" or "Sector 23 Developers" servers. Sincerely, EXTEN and my team.
